@@ -1,0 +1,1 @@
+import{s as n,o as s}from"../chunks/scheduler.kAlY8CUs.js";import{S as e,i as r}from"../chunks/index.J9h6TgqT.js";let a="https://discord.gg/KS5fqf7WJ8";function i(o){return s(()=>{window.location.href=a}),[]}class f extends e{constructor(t){super(),r(this,t,i,null,n,{})}}export{f as component};
